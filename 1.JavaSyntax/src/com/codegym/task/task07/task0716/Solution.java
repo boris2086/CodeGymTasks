@@ -1,6 +1,7 @@
 package com.codegym.task.task07.task0716;
 
 import java.util.ArrayList;
+import java.util.Iterator;
 
 /* 
 R or L
@@ -22,7 +23,23 @@ public class Solution {
 
     public static ArrayList<String> fix(ArrayList<String> list) {
         // write your code here
-
-        return null;
+        for (Iterator<String> i = list.iterator() ; i.hasNext();) {
+            String str = i.next();
+            boolean isR = str.contains("r");
+            boolean isL = str.contains("l");
+            if (isR ^ isL){
+                if (isR){
+                    i.remove();
+                }
+                else {
+                    list.add(str);
+                    list.add(str);
+                }
+            }
+            else {
+                list.add(str);
+            }
+        }
+        return list;
     }
 }
