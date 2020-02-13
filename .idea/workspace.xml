@@ -36,6 +36,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -50,7 +51,7 @@
       <recent name="D:\intellijSandbox\CodeGymTasks" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution (2)">
+  <component name="RunManager" selected="Application.Solution (5)">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -250,20 +251,6 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
-    <configuration name="Cat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codegym.task.task06.task0614.Cat" />
-      <module name="1.JavaSyntax" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.codegym.task.task06.task0614.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codegym.task.task06.task0621.Solution" />
       <module name="1.JavaSyntax" />
@@ -292,6 +279,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codegym.task.task07.task0717.Solution" />
+      <module name="1.JavaSyntax" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codegym.task.task07.task0717.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.codegym.task.task07.task0701.Solution" />
       <module name="1.JavaSyntax" />
@@ -306,13 +307,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codegym.task.task06.task0620.Solution" />
+    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codegym.task.task07.task0718.Solution" />
       <module name="1.JavaSyntax" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codegym.task.task06.task0620.*" />
+          <option name="PATTERN" value="com.codegym.task.task07.task0718.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -387,11 +388,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (5)" />
+        <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Cat" />
       </list>
     </recent_temporary>
   </component>
@@ -455,34 +456,64 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="249" key="GridCell.Tab.0.bottom" timestamp="1581157259531">
+    <state x="507" y="230" key="FileChooserDialogImpl" timestamp="1581532606327">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="507" y="230" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1581532606327" />
+    <state width="1493" height="248" key="GridCell.Tab.0.bottom" timestamp="1581542202382">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="249" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1581157259531" />
-    <state width="1493" height="249" key="GridCell.Tab.0.center" timestamp="1581157259531">
+    <state width="1493" height="248" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581542202382" />
+    <state width="1493" height="248" key="GridCell.Tab.0.center" timestamp="1581542202382">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="249" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1581157259531" />
-    <state width="1493" height="249" key="GridCell.Tab.0.left" timestamp="1581157259531">
+    <state width="1493" height="248" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581542202382" />
+    <state width="1493" height="248" key="GridCell.Tab.0.left" timestamp="1581542202382">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="249" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1581157259531" />
-    <state width="1493" height="249" key="GridCell.Tab.0.right" timestamp="1581157259531">
+    <state width="1493" height="248" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581542202382" />
+    <state width="1493" height="248" key="GridCell.Tab.0.right" timestamp="1581542202382">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="249" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1581157259531" />
-    <state x="477" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1581096783677">
+    <state width="1493" height="248" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581542202382" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1581539741717">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="477" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1581096783677" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581539741717" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1581539741717">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1581539741717" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1581539741717">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1581539741717" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1581539741717">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1581539741717" />
+    <state x="238" y="116" key="SettingsEditor" timestamp="1581532664382">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="238" y="116" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1581532664382" />
+    <state x="477" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1581541588073">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1581526178495" />
+    <state x="477" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1581541588073" />
     <state x="580" y="332" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581157849420">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="580" y="332" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1581157849420" />
-    <state width="484" height="116" key="javadoc.popup.new" timestamp="1581157075435">
+    <state width="484" height="116" key="javadoc.popup.new" timestamp="1581539525134">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="484" height="116" key="javadoc.popup.new/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1581157075435" />
+    <state width="484" height="116" key="javadoc.popup.new/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1581527378878" />
+    <state width="484" height="116" key="javadoc.popup.new/0.0.1536.824@0.0.1536.824" timestamp="1581539525134" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
